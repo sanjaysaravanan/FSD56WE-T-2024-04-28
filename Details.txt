@@ -99,6 +99,7 @@ Next Session:
       passing function as prop to the child
 
 Task:
+  Please complete one of the following,
 
   Day 21: React Shopping Cart Task
     https://docs.google.com/document/d/1mqZqoxmPlEioKCwVfuOYIUcG2kESrYuocrYO4h9kiRk/edit
